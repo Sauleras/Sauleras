@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Sauleras
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me -> @ssaullo.filho
+<h1>Sup! 🖐</h1>
 
-<!---
-Sauleras/Sauleras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>Hi! My name is Saulo, I'm from Brazil and I'm currently studying Front-End. 👨‍💻</p>
+
+<p>I'm always looking to learn and improve my skills.</p>
+
+<strong>About me</strong> 😄
+
+<ul>
+  <li>I was born in Brasília, Distrito Federal 👶</li>
+  <li>Besides programming, I also love gaming in my free time 🎮</li>
+  <li>Always listening to some music 🎶</li>
+  <li>Each passing day, I'm more in love about front-end and JS 💘</li>
+  <li>Currently learning about React and Typescript💻</li>
+  <li>Open to an opportunity to gain experience 😅</li>
+</ul>
+
+<strong>You cand find me on</strong> 👇
+
+<a href="https://www.instagram.com/ssaullo.filho/">Instagram</a>
+  
+ 
