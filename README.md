@@ -12,7 +12,6 @@
     <li>Besides programming, I also love gaming in my free time 🎮</li>
     <li>Always listening to some music 🎶</li>
     <li>Each passing day, I'm more in love about front-end and JS 💘</li>
-    <li>Currently learning about React and Typescript💻</li>
     <li>Open to an opportunity to gain experience 😅</li>
   </ul> 
 </div>
