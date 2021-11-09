@@ -1,5 +1,5 @@
 <div>  
-  <h1>Sup! ✌</h1>
+  <h1>Salve! ✌</h1>
 
   <p>Hi! My name is Saulo, I'm from Brazil and I'm currently studying FrontEnd. 👨‍💻</p>
 
@@ -26,7 +26,7 @@
 
 ##
 
-<div style="display: flex flex-wrap: wrap">  
+<div style="display: inline-bloc">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sauleras&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauleras&layout=compact&theme=dracula">  
 </div>    
