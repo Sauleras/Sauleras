@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hi! My name is Saulo, I'm from Brazil and I'm a Software Developer<br>📬 Shoot me an E-mail or add me on LinkedIn XD
+👨‍💻 Hi! My name is Saulo, I'm from Brazil and I'm a Software Developer
 
 
 ## 🦾 My Portfolio
